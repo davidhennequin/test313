@@ -1,4 +1,5 @@
 readme.md
 *.txt
+!info.txt
 tmp*
 .idea/*
